@@ -3,7 +3,8 @@
 Git-backed archive of my Daily AI Brief.
 
 - `PROMPT.md` — the instructions each brief is written from.
-- `briefs/YYYY-MM-DD.md` — one brief per day, written by a scheduled Claude Code task at 5:47am (America/Sao_Paulo).
+- `ROUTINE_PROMPT.md` — the prompt for the daily Claude Code routine (claude.ai → Routines), which runs at 5:47am America/Sao_Paulo with this repo attached.
+- `briefs/YYYY-MM-DD.md` — one brief per day.
 
 ## How the daily run works
 
